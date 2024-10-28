@@ -25,7 +25,7 @@
 
 ---
 
-###⚙️ Simple & Instant Installation
+## ⚙️ Simple & Instant Installation
 
 Get started instantly with a quick, no-fuss setup! Each theme is organized in a separate folder, ready for installation with just a **right-click** in Windows File Explorer.
 
