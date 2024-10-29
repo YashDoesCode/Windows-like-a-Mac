@@ -1,7 +1,8 @@
 # Windows Like a Mac – The Ultimate macOS Experience on Windows!
 
 ![image](https://github.com/user-attachments/assets/68832cff-ad51-4ee2-860e-47a4d8479748)
-![image](https://github.com/user-attachments/assets/005dc2fe-ccda-44cd-931a-6e5adfd175c7)
+![image](https://github.com/user-attachments/assets/625be578-5987-47e2-a881-6c3a7c582da4)
+
 
 **Transform your Windows desktop with style, precision, and the iconic charm of macOS.** With **Windows Like a Mac**, bring the elegance of Apple's ecosystem directly to your PC, with features meticulously designed to offer the best of both worlds. Elevate your workspace with a premium look and feel that rivals the real deal.
 
